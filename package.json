@@ -1,6 +1,6 @@
 {
   "homepage": "https://yasaman9776.github.io/contactManager",
-  "name": "contact-manager-app",
+  "name": "contactManager",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
